@@ -319,7 +319,6 @@ LI {
     ;
 
 }
-
 .box3 {
     height: 500px;
     width: 600px;
@@ -340,17 +339,17 @@ LI {
 
 .imgmarg {
     margin: auto;
-    height: 400px;
-    width: 500px;
+    height: 300px;
+    width: 400px;
     position: relative;
 }
 
 .imgmarg {
     position: absolute;
     margin-left: 18px;
-    height: 400px;
+    height: 300px;
     margin-top: 40px;
-    width: 500px;
+    width: 400px;
 
 }
 
